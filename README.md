@@ -1,5 +1,5 @@
 ## Natural Language Processing with Hugging Face Transformers
-#### _Author : @Svitlana Kramar__
+#### _Author : @Svitlana Kramar_
 
 ## Information Project 🔎
 This Guided Project will walk you through some of the applications of Hugging Face Transformers in Natural Language Processing (NLP). Hugging Face Transformers 
